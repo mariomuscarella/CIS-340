@@ -1,3 +1,5 @@
+// Description: Builds a doubly linked list of integers and sorts them in ascending order
+
 #include <stdlib.h>
 #include <stdio.h>
 #include "node.h"
