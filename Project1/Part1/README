@@ -1,0 +1,24 @@
+Project Description: Group F part 1 of the project 1 creates a program to build a doubly linked list and apply a custom quicksort algorithm to sort and print the results.
+
+Group Member's Contributions:
+	Jeff Barto: 33.33%
+	Alisha Bansal: 33.33%
+	Mario Muscarella: 33.33%
+
+Compiling Instruction: A makefile is included in the working directory. So, running the 'make' command in the 'Group_F/part1' directory will compile all relevant files into an executable named 'main'. The program can then be run by specifying './main'
+
+A sample test run: 
+	spirit:~/Group_F/part1% ./main 
+	Enter list data: 
+	30
+	20
+	50
+	70
+	10
+	0
+	List before sort: 
+	30 20 50 70 10 
+	List after sort: 
+	10 20 30 50 70 
+
+Existing Bugs: There are no KNOWN bugs. 
