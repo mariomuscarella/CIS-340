@@ -1,11 +1,12 @@
-Project Description: Group F Part 2 of project 1 creates a program to read in a text file consisting of a series of characters into an array. Characters are then split into NULL character separated strings. Execution of the program consists of passing two command-line arguments for the text file and a flag (-f, -F, -b, or -B) to specify the order to output the strings to stdout.
+Project Description: Group F Part 2 of project 1 creates a program to read in a text file consisting of a series of 
+characters into an array. Characters are then split into NULL character separated strings. Execution of the program 
+consists of passing two command-line arguments for the text file and a flag (-f, -F, -b, or -B) to specify the order to 
+output the strings to stdout.
 
-Compiling Instruction: A makefile is included in the working directory. So, running the 'make' command in the 'Group_F/part2' directory will compile all relevant files into an executable named 'main'. The executable can then be run by specifying './file2string filename -x' (specifying your file for 'filename' and 'f, F, b, or B for x)
+Compiling Instruction: A makefile is included in the working directory. So, running the 'make' command in the 
+'part2' directory will compile all relevant files into an executable named 'main'. The executable can then be 
+run by specifying './file2string filename -x' (specifying your file for 'filename' and 'f, F, b, or B for x)
 
-Group Member's Contribution: 
-	Jeff Barto: 33.33%
-	Alisha Bansal: 33.33%
-	Mario Muscarella: 33.33%
 
 A Sample Test Run:
 	spirit:~/Group_F/part2% ./file2string testfile 
