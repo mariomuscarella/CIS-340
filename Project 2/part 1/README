@@ -2,24 +2,7 @@
     
 I. Part1:
 
-	develop "a floppy console" program that supports the following floppy disk related commands.
-	
-    
-/***********************************************************************************
-	GROUP F: Yi Dong(CSUID), Mario Muscarella(2478702), Bri O'Neil(2583119)
-	CIS 340: Project 2
-	DESCRIPTION: create a shell environment for a FAT12 filesystem
-***********************************************************************************/	
-
-/**    Group members' contributions (in percentage)  **/
-	
-	Just give us the credit. That's all group project about.
-		
-	Yi Dong			
-	Mario Muscarella	
-	Brianne O'Neil		
-
-	
+	develop "a floppy console" program that supports the following floppy disk related commands.	
 	
 /**    Compiling instruction  **/
 
